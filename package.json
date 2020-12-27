@@ -2,10 +2,10 @@
   "name": "-weather-forecast",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000-\u0000w\u0000e\u0000a\u0000t\u0000h\u0000e\u0000r\u0000-\u0000f\u0000o\u0000r\u0000e\u0000c\u0000a\u0000s\u0000t\u0000\r\u0000 \u0000",
-  "main": "DZ8.js",
+  "main": "main.js",
   "scripts": {
-    "dev": "parcel DZ8.html --open",
-    "build": "parcel build DZ8.html"
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
